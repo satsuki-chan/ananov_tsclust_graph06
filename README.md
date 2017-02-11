@@ -28,7 +28,7 @@ Platform: x86_64-suse-linux-gnu (64-bit)
 
 1. Verify that you have installed R, version 3.2.3 or above
 2. Check that all the files are in the same directory and that you have reading and writing permissions
-3. Open a terminal window in the direcory and execute:
+3. Open a terminal window in the directory and execute:
   * `R -f ananov_tsclust_scatterplots.r`
 4. Afterwards, execute to generate the scatter plots:
   * `R -f ananov_tsclust_scatterplots_instructions.r`
