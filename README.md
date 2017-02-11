@@ -1,4 +1,4 @@
-# Scatter plots graphs of the comparissions of the Modern Portfolio Theory (MPT) variables from Mexican equity funds (from 31-12-2010 to 31-12-2015), grouped by the CORT clustering analysis.
+# Scatter graphs of the comparissions of the Modern Portfolio Theory (MPT) variables from Mexican equity funds (from 31-12-2010 to 31-12-2015), grouped by the CORT clustering analysis.
 
 ## R version 3.2.3 (2015-12-10) -- "Wooden Christmas-Tree"
 Platform: x86_64-suse-linux-gnu (64-bit)
@@ -30,5 +30,5 @@ Platform: x86_64-suse-linux-gnu (64-bit)
 2. Check that all the files are in the same directory and that you have reading and writing permissions
 3. Open a terminal window in the directory and execute:
   * `R -f ananov_tsclust_scatterplots.r`
-4. Afterwards, execute to generate the scatter plots:
+4. Afterwards, to generate the scatter plots, execute:
   * `R -f ananov_tsclust_scatterplots_instructions.r`
