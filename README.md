@@ -6,25 +6,25 @@ Platform: x86_64-suse-linux-gnu (64-bit)
 
 >https://www.R-project.org/
 
-##Aditional R packages:
-###ggplot2 - Version == 2.1.
+## Aditional R packages:
+### ggplot2 - Version == 2.1.
 >**Hadley Wickham (2009)**. *ggplot2: Elegant Graphics for Data Analysis*. R package version 2.1. NY: Springer-Verlag.
 
 >http://ggplot2.org
 
 
-##Execution instructions
-####Script file:
+## Execution instructions
+#### Script file:
 * `ananov_tsclust_scatterplots.r`
 
-####Input file:
+#### Input file:
 * `RVMexico.capm_pclust_<YYYYmmddHHMMSS>.csv`
 
-####Output files:
+#### Output files:
 * `Rplots.pdf`
 * `RVMexico.capm_pclust_sig<significance_level>_capm_<MPT_var1>X<MPT_var2>.png`
 
-####To execute the script:
+#### To execute the script:
 
 1. Verify that you have installed R, version 3.2.3 or above
 2. Check that all the files are in the same directory and that you have reading and writing permissions
